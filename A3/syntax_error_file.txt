@@ -1,0 +1,2444 @@
+syntax error in file:books1995.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Baseball By The Numbers: How Statistics Are Collected, What They Mean, and How They Reveal the Game",Willie Runquist,30.95,9780786400065,SSM,1995
+
+syntax error in file:books1995.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - One-Armed Wonder: Pete Gray, Wartime Baseball, and the American Dream",William C. Kashatus,26.96,9780786400942,SSM,1995
+
+syntax error in file:books1995.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Pacific Coast League: A Statistical History, 1903-1957",Dennis Snelling,30.95,9780786400454,SSM,1995
+
+syntax error in file:books1997.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball Pioneers: Ratings of Nineteenth Century Players,Charles F. Faber,30.95,9780786402953,SSM,1997
+
+syntax error in file:books1997.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Umpires: Classic Baseball Stories from the Men Who Made the Calls,John C. Skipper,30.95,9780786403646,SSM,1997
+
+syntax error in file:books1998.csv.txt
+====================
+Error: missing price
+Record:Back In The Saddle - Essays On Western Film And Television Actors,,35.95,9780786405664,MTV,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Babe Chases 60: That Fabulous 1927 Season, Home Run by Home Run",John G. Robertson,28.8,9780786405039,SSM,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Cochrane, Mickey: The Life of a Baseball Hall of Fame Catcher",Charlie Bevis,30.95,9780786405169,SSM,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Fuchs, Judge And The Boston Braves, 1923-1935",Robert S. Fuchs & Wayne Soini,28.8,9780786404827,SSM,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Marquard, Rube: The Life and Times of a Baseball Hall of Famer",Larry D. Mansch,26.96,9780786404971,SSM,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Red Stockings of Cincinnati: Base Ball's First All-Professional Team and Its Historic 1869 and 1870 Seasons,Stephen D. Guschov,28.8,9780786404674,SSM,1998
+
+syntax error in file:books1998.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - They Tasted Glory: Among the Missing at the Baseball Hall of Fame,Wil A. Linkugel & Edward J. Pappas,30.95,9780786404841,SSM,1998
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Athletics of Philadelphia: Connie Mack's White Elephants, 1901-1954",David M. Jordan,26.96,9780786406203,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Complete Players: Ratings of Total-Season Performance for the Greatest Players of the 20th Century,Michael Hoban,30.95,9780786406333,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Lopez, Al: The Life of Baseball's El Senor",Wes Singletary,30.95,9780786406562,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Moments In The Sun: Baseball's Briefly Famous,Mark McGuire & Michael Sean Gormley,30.95,9780786405497,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Ott, Mel: The Little Giant of Baseball",Fred Stein,-28.8,9780786406586,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Schmidt, Mike: Philadelphia's Hall of Fame Third Baseman",William C. Kashatus,26.96,9780786407132,SSM,1999
+
+syntax error in file:books1999.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Young Babe Ruth: His Early Life and Baseball Career, from the Memoirs of a Xaverian Brother",Brother Gilbert C.F.X.,28.8,9780786406524,SSM,1999
+
+syntax error in file:books2000.csv.txt
+====================
+Error: missing price
+Record:African American Jazz And Rap - Social And Philosophical Examinations of Black Expressive Behavior,,39.95,9780786408283,MRB,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: missing year
+Record:Zombie Movie Encyclopedia,Peter Dendle,30.95,9780786408597,,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Other All-Stars,William F. McNeil,-30.95,9780786407842,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Collecting Baseball Memorabilia,Dan Zachofsky,22.46,9780786407613,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: missing price
+Record:Baseball - Day-By-Day In Baseball History,,35.95,9780786408863,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Dizzy And The Gas House Gang: The 1934 St. Louis Cardinals and Depression-Era Baseball,Doug Feldmann,26.96,9780786408580,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Fouled Away: The Baseball Tragedy of Hack Wilson,Clifton Blue Parker,26.96,9780786408641,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Macphails: Baseball's First Family of the Front Office,G. Richard McKelvey,30.95,9780786406395,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Rickey, Branch In Pittsburgh: Baseball's Trailblazing General Manager for the Pirates, 1950-1955",Andrew O'Toole,30.95,9780786408399,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Take Me Out To The Cubs Game: 35 Former Ballplayers Speak of Losing at Wrigley,John C. Skipper,30.95,9780786408108,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Voices From The Pastime: Oral Histories of Surviving Major Leaguers, Negro Leaguers, Cuban Leaguers and Writers, 1920-1934",Nick Wilson,30.95,9780786408245,SSM,2000
+
+syntax error in file:books2000.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Waddell, Rube: The Zany, Brilliant Life of a Strikeout Artist",Alan H. Levy,26.96,9780786407866,SSM,2000
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 1919 World Series: What Really Happened?,William A. Cook,28.8,9780786410699,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Blackball, The Black Sox, And The Babe: Baseball's Crucial 1920 Season",Robert C. Cottrell,30.95,9780786411641,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Bushville: Life and Time in Amateur Baseball,Jerry Kelly,22.46,9780786409792,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Chase, Hal: The Defiant Life and Turbulent Times of Baseball's Biggest Crook",Martin Donell Kohout,28.8,9780786410675,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Cooperstown Verses: Poems About Each Hall of Famer,Mark W. Schraf,22.46,9780786411481,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Diamonds In The Coalfields: 21 Remarkable Baseball Players, Managers, and Umpires from Northeast Pennsylvania",William C. Kashatus,30.95,9780786411764,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Early Baseball And The Rise of The National League,Tom Melville,26.96,9780786409624,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Idols of The Spring: Baseball Interviews About Preseason Training,Dan Zachofsky,26.96,9780786410798,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Munson, Thurman: A Baseball Biography",Christopher Devine,26.96,9780786410897,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Pastime In Turbulence: Interviews with Baseball Players of the 1940s,Brent Kelley,30.95,9780786409754,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Pittsburgh Crawfords,Jim Bankes,30.95,9780786409921,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - POW Baseball In World War II: The National Pastime Behind Barbed Wire,Tim Wolter,30.95,9780786411863,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Road To Cooperstown: A Critical History of Baseball's Hall of Fame Selection Process,James F. Vail,30.95,9780786410125,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Shadow Ball: A Novel of Baseball and Chicago,Peter M. Rutkoff,22.46,9780786409815,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Shoeless: The Life and Times of Joe Jackson,David L. Fleitz,26.96,9780786409785,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - This Day In Yankees History,Ronald L. Meinstereifel,30.95,9780786410026,SSM,2001
+
+syntax error in file:books2001.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Waiting For Godot's First Pitch: More Poems from Baseball,Tim Peeler,22.46,9780786411276,SSM,2001
+
+syntax error in file:books2002.csv.txt
+====================
+Error: missing price
+Record:Brooklyn Film - Essays In The History of Filmmaking,,35.95,9780786414055,MTV,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: missing price
+Record:"Cinema Arthuriana - Twenty Essays, Revised Edition",,49.5,9780786413447,MTV,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: missing price
+Record:Film And Knowledge - Essays On The Integration of Images And Ideas,,35.95,9780786413201,MTV,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: missing price
+Record:"Robards, Jason Remembered - Essays And Recollections",,35.95,9780786413560,MTV,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: missing price
+Record:Baseball - Baseball In The Carolinas: 25 Essays on the States' Hardball Heritage,,30.95,9780786413188,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Cardinal Points: Poems on St. Louis Cardinals Baseball,Joseph Stanton,22.46,9780786413737,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Catcher In The Wry: Baseball Poems,Dan Zamudio,22.46,9780786413140,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Cunning Kind of Play, A: The Cubs-Giants Rivalry, 1876-1932",Warren N. Wilbert,30.95,9780786411566,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Fleeter Than Birds: The 1985 St. Louis Cardinals and Small Ball's Last Hurrah,Doug Feldmann,26.96,9780786411658,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Late And Close: A History of Relief Pitching,Paul Votano,28.8,9780786411627,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Outrageous Fortune: What's Wrong with Hall of Fame Voting and How to Make It Statistically Sound,James F. Vail,30.95,9780786411269,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Prince At First: Fictional Autobiography of Baseball's Hal Chase,Ed Dinger,22.46,9780786413300,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - San Francisco Seals, The, 1946-1957: Interviews with 25 Former Baseballers",Brent P. Kelley,26.96,9780786411887,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - That Was Part of Baseball Then: Interviews with 24 Former Major League Baseball Players, Coaches and Managers",Victor Debs Jr.,30.95,9780786411788,SSM,2002
+
+syntax error in file:books2002.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Western League: A Baseball History, 1885 through 1999",W.C. Madden & Patrick J. Stewart,30.95,9780786410033,SSM,2002
+
+syntax error in file:books2003.csv.txt
+====================
+Error: missing price
+Record:Survivor Lessons - Essays On Communication And Reality Television,,35.95,9780786416684,MTV,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: missing price
+Record:War And Film In America - Historical And Critical Essays,,30.95,9780786416738,MTV,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 1917 White Sox: Their World Championship Season,Warren N. Wilbert & William C. Hageman,30.95,9780786416226,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Ashes of Lou Gehrig And Other Baseball Essays,Sean Peter Kirst,30.95,9780786415786,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Busting 'Em And Other Big League Stories,Ty Cobb,30.95,9780786415991,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Commy: The Life Story of Charles A. Comiskey,G.W. Axelson,30.95,9780786415984,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Everything Happens In Chillicothe: A Summer in the Frontier League with Max McLeary, The One-Eyed Umpire",Mike Shannon,26.96,9780786416943,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - League of My Own, A: Memoir of a Pitcher for the All-American Girls Professional Baseball League",Patricia I. Brown,26.96,9780786414741,SSM,2003
+
+syntax error in file:books2003.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Marsans, Armando: A Cuban Pioneer in the Major Leagues",Peter T. Toot,28.8,9780786415847,SSM,2003
+
+syntax error in file:books2004.csv.txt
+====================
+Error: missing price
+Record:Almost Shakespeare - Reinventing His Works For Cinema And Television,,30.95,9780786419098,MTV,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Base-Ball Ballads,Grantland Rice,-30.95,9780786420384,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball In Cincinnati: A History,Harry Ellard,30.95,9780786417261,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Fix Is In: A History of Baseball Gambling and Game Fixing Scandals,Daniel E. Ginsburg,26.96,9780786419203,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Foxx, Jimmie: The Life and Times of a Baseball Hall of Famer, 1907-1967",W. Harrison Daniel,28.8,9780786418671,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Hardball On The Home Front: Major League Replacement Players of World War II,Craig Allen Cleve,30.95,9780786418978,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Mathewson, Christy: A Biography",Michael Hartley,28.8,9780786416530,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Puerto Rico's Winter League: A History of Major League Baseball's Launching Pad,Thomas E. Van Hyning,30.95,9780786419708,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Textile League Baseball: South Carolina's Mill Teams, 1880-1955",Thomas K. Perry,26.96,9780786418756,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Touching Second,John J. Evers & Hugh S. Fullerton,30.95,9780786418695,SSM,2004
+
+syntax error in file:books2004.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Woman's Work: Writing Baseball History with Harold Seymour,Dorothy Jane Mills,30.95,9780786418480,SSM,2004
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Crumb, R. - The Life And Times of R. Crumb",,5.95,0312195710,CCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Superhero Book,,24.95,1578591546,CCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Antique Trader - Antiques & Collectibles 2006 Price Guide,Kyle Husfloen,16.95,,HCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Antiques 101,Frank Farmer Loomis IV,17.95,,HCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:O'Brien's Collecting Toy Cars & Trucks,,21.95,0873498364,HCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Warman's Toys Field Guide,,-9.95,0873498178,HCB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Abba - The Complete Guide To Their Music,Carl Magnus Palm,4.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Baker, Josephine Story",Ean Wood,7.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Beatles - True Beginnings,Roag Best & Pete Best & Rory Best,12.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Beatles - Walrus Was Ringo: 101 Beatles Myths Debunked,Alan Clayson & Spencer Leigh,14.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Big Star,Rob Jovanovic,12.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Billboard Book of Number One Adult Contemporary Hits,Wesley Hyatt,5.95,,BBM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Billboard Hot 100 Charts - The Sixties,Joel Whitburn,56.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Blue Note - Album Cover Art: The Ultimate Collection,,14.95,0811836886,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Bristol Sessions - Writings About The Big Bang of Country Music,,30.95,9780786419456,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Dylan, Bob Anthology, Volume 2 - 20 Years of ISIS",,16.95,1842403095,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:From the Velvets to the Voidoids,Clinton Heylin,12.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Gaye, Marvin, My Brother",Frankie Gaye & Fred E. Basten,14.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Guitar - Guitar Chord & Scale Decks,,14.95,0825629721,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Hot Wacks Supplement 5,,12.95,0969808089,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Hot Wacks Supplement 7,,12.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Iggy & The Stooges - Raw Power,Mick Rock,19.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Kiss - Warman's Kiss Collectibles Field Guide,Tom Shannon,9.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Led Zeppelin - Press Reports...,,19.95,1894959175,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Lennon, John - New York Years",Bob Gruen,19.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Monkees - Hey, Hey, We're The Monkees",,5.95,1575440121,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Presley, Elvis - Elvis + Marilyn: 2X Immortal",,3.95,0847818829,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Radiohead - CD-Sized Book,Mick St Michael,1,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Rock Photography - Showtime,Steve Gullick,3.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Rock Posters - Swag 2: Rock Posters of the '90s,Spencer Drate & Judith Salavetz,19.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Rockabilly - A Forty-Year Journey,Billy Poore,13.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Rolling Stones - A Life On The Road,Jools Holland & Dora Loewenstein,14.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Swinging Big Bands...Into The Millennium,Al Raymond,12.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:VH1 - 100 Greatest Albums,,3.95,0743448766,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Yardbirds,Alan Clayson,16.95,,MRB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Attack of The B Queens,,19.95,1887664084,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Carson, Johnny - Here's Johnny!",Ed McMahon,4.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Chaney, Jr., Lon - Midnight Marquee Actors Series: Lon Chaney, Jr.",,19.95,1887664157,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Disney, Walt - Walt In Wonderland: Silent Films of Walt Disney",,4.95,0801864291,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Fantastic Journeys: Sci-Fi Memories,,19.95,1887664408,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: Error: too many fields 
+Record:"First Hollywood Sound Shorts 1926-1931, The",,,44.95,9780786443192,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:First World War and Popular Cinema,,5.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Forgotten Horrors 2: Beyond The Horror Ban,Michael H. Price & George E. Turner,19.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Frankenstein - We Belong Dead: Frankenstein On Film,,19.95,1887664092,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Hollywood's Maddest Doctors: A Biography of Lionel Atwill, Colin Clive And George Zucco",Gregory William Mank,19.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:It's Christmas Time At The Movies: An A-Z Guide To Our Favorite Holiday Films,,19.95,188766419X,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Japanese Movie Posters,,4.95,0972312455,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:King Kong - History of a Movie Icon: From Fay Wray to Peter Jackson,Ray Morton,16.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Latin American Cinema - Essays On Modernity, Gender And National Identity",,35.95,9780786420049,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Lorre, Peter - Midnight Marquee Actors Series: Peter Lorre",,19.95,1887664300,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Mad About Movies (#3),,7.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Mad About Movies (#4),,7.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Memories of Hammer,,24.95,1884664181,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Midnight Marquee (Issue #71 / 72),,7.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Midnight Marquee (Issue #73 / 74),,7.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Movie Mystique (#1),,4.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Movie Mystique (#2),,4.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Naschy, Paul - Memoirs of A Wolfman",,19.95,1887664386,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Performers' Television Credits, 1948-2000, Volume 2: G-M",David M. Inman,109.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Performers' Television Credits, 1948-2000, Volumes 1-3",David M. Inman,264.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Price, Vincent - Midnight Marquee Actors Series: Vincent Price",,19.95,1887664211,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Salmi, Albert - Spotlights & Shadows: The Albert Salmi Story",Sandra Grabman,14.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Sleazoid Express,,4.95,0743215834,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Sorkin, Aaron - Essays On The Politics, Poetics And Sleight of Hand In The Films And Television Series",,30.95,9780786421206,MTV,1005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:Trash - The Graphic Genius of Xploitation Movie Posters,Jacques Boyreau,14.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:TV A-Go-Go - Rock on TV from American Bandstand to American Idol,,14.95,0811834174,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Williams, Guy - The Man Behind the Mask",Antoinette Girgenti Lane,19.95,,MTV,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Warhol, Andy - Greetings from Andy (Warhol): Christmas at Tiffany's",John Loring,7.95,,NEB,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 100 Greatest Baseball Games of The 20th Century Ranked,Joseph J. Dittmar,26.95,0786409150,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 100 Greatest Baseball Players of The 20th Century Ranked,Mark McGuire & Michael Sean Gormley,31.95,0786409142,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - 1903 World Series: The Boston Americans, the Pittsburg Pirates, and the First Championship of the United States",Andy Dabilis & Nick Tsiotos,24.95,0786418400,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 1940 Cincinnati Reds: A World Championship and Baseball's Only In-Season Suicide,Brian Mulligan,24.95,0786420901,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Baseball - 1964 Phillies: The Story of Baseball's Most Memorable Collapse,,26.96,9780786421176,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - 25 Greatest Baseball Teams of The 20th Century Ranked,Chris Holaday & Marshall Adesman,29.95,0786409258,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - A Picture Postcard History of Baseball,Ron Menchine,4.95,0930256212,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - All-American Girls Professional Baseball League Record Book: Comprehensive Hitting, Fielding and Pitching Statistics",W.C. Madden,39.95,078640597X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - And The Skipper Bats Cleanup: A History of the Baseball Player-Manager, with 42 Biographies of Men Who Filled the Dual Role",Fred Stein,24.95,0786412283,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Anson, Cap: The Grand Old Man of Baseball",David L. Fleitz,24.95,0786422386,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - At Home And Away: 33 Years of Baseball Essays,John Kuenster,24.95,0786415592,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Baseball / Literature / Culture: Essays, 1995-2001",,39.95,0786416432,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Baseball / Literature / Culture: Essays, 2002-2003",,39.95,0786418516,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Baseball And Richmond: A History of the Professional Game, 1884-2000",W. Harrison Daniel & Scott P. Mayer,24.95,0786414898,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Baseball - Baseball Anthology,,9.95,0810991799,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Baseball - Baseball as America: Seeing Ourselves Through Our National Game,,11.95,0792238982,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball Cyclopedia,Ernest J. Lanigan,30.95,9780786418688,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Baseball Filmography, 1915 Through 2001, Second Edition",Hal Erickson,44.95,0786412720,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Baseball Necrology, The - The Post Baseball Lives and Deaths of More Than 7,600 Major League Players and Others",Bill Lee,35.95,9780786442393,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Baseball Players of The 1950s: A Biographical Dictionary of All 1,560 Major Leaguers",Rich Marazzi & Len Fiorito,49.95,078641281X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball Scorekeeping: A Practical Guide to the Rules,Andres Wirkmaa,24.95,0786414480,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball Scrapbook,Peter C. Bjarkman,19.95,1572153792,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball With A Latin Beat: A History of the Latin American Game,Peter C. Bjarkman,29.95,0899509738,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Golden Age: Photographs of Charles M. Conlan,Neal McCabe & Constance McCabe,5.95,0810991195,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Retired Numbers: Major and Minor Leagues,Thomas W. Brucato,24.95,0786417625,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Western Front: The Pacific Coast League During World War II,Donald R. Wells,24.95,0786419989,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Beating The Breaks: Major League Ballplayers Who Overcame Disabilities,Rick Swaine,24.95,0786418281,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Before They Were The Bombers: The New York Yankees' Early Years, 1903-1915",Jim Reisler,24.95,0786422300,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Beisbol Cubano: A un Paso de las Grandes Ligas, 1878-1961",Jorge S. Figueredo,64.95,0786419865,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Best Man Plays: Major League Baseball and the Black Athlete, 1901-2002",Andrew O'Toole,24.95,0786414944,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Biographical Dictionary of Major League Baseball Managers,John C. Skipper,39.95,0786410213,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Biographical Dictionary of The Baseball Hall of Fame,John C. Skipper,39.95,0786406038,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Brooklyn Dodgers In The 1940s: How Robinson, MacPhail, Reiser and Rickey Changed Baseball",Rudy Marzano,24.95,0786419873,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Brooklyn Dodgers Reader,Andrew Paul Mele,34.95,078641913X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Business of Baseball,Albert Theodore Powers,24.95,078641426X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Checks And Imbalances: Competitive Disparity in Major League Baseball,Scott Barzilla,24.95,0786412550,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Class At Bat, Gender On Deck And Race In The Hole: A Line-up of Essays on Twentieth Century Culture and America's Game",Ron Briley,29.95,0786415908,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Classic Baseball,Dave Anderson,7.95,0810942585,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Close Shave: The Life and Times of Baseball's Sal Maglie,James D. Szalontai,27.95,0786411899,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - College World Series: A Baseball History, 1947-2003",W.C. Madden & Patrick J. Stewart,39.95,0786418427,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Collins, Dottie Wiltse: Strikeout Queen of the All-American Girls Professional Baseball League",Carolyn M. Trombe,26.96,9780786421886,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Cool Papas And Double Duties: The All-Time Greats of the Negro Leagues,William F. McNeil,24.95,0786422297,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 1997 (Jackie Robinson)",,29.95,0786408316,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 1998",,29.95,0786409541,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 1999",,29.95,0786408324,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 2000",,29.95,0786411201,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 2001",,29.95,0786413573,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 2002",,29.95,0786415703,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:"Baseball - Cooperstown Symposium On Baseball And American Culture, 2003-2004",,29.95,0786421967,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Cuban Baseball: A Statistical History, 1878-1961",Jorge S. Figueredo,67.95,078641250X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Cubs Win The Pennant!: Charlie Grimm, the Billy Goat Curse, and the 1945 World Series Run",John C. Skipper,24.95,0786418168,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Cultural Encyclopedia of Baseball, 2nd Edition",Jonathan Fraser Light,64.95,0786420871,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Dahlen, Bad Bill: The Rollicking Life and Times of an Early Baseball Star",Lyle Spatz,26.95,0786419784,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Dean of Umpires: A Biography of Bill McGowan, 1896-1954",Bob Luke,24.95,0786421363,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Diamond Classics: Essays on 100 of the Best Baseball Books Ever Published,Mike Shannon,24.95,0786418532,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Early Latino Ballplayers In The United States: Major, Minor and Negro Leagues, 1901-1949",Nick C. Wilson,29.95,078642012X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Ebbets To Veeck To Busch: Eight Owners who Shaped Baseball,Burton A. Boxerman & Benita W. Boxerman,24.95,0786415622,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Ee-Yah: The Life and Times of Hughie Jennings, Baseball Hall of Famer",Jack Smiles,-24.95,0786422025,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Ferrell Brothers of Baseball,Dick Thompson,24.95,0786420065,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Fine-Looking Lot of Ball-Tossers, A: The Remarkable Akrons of 1881",Richard L. McBane,26.96,9780786420568,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - For It's One, Two, Three, Four Strikes You're Out At The Owners' Ball Game: Players Versus Management in Baseball",G. Richard McKelvey,24.95,0786411929,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - For The Good of The Country: World War II Baseball in the Major and Minor Leagues,David Finoli,24.95,0786413700,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Ghosts In The Gallery At Cooperstown: Sixteen Little-Known Members of the Hall of Fame,David L. Fleitz,24.95,0786417498,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Giants And The Dodgers: Four Cities, Two Teams, One Rivalry",Andrew Goldblatt,24.95,0786416408,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Golden Age of Baseball,Paul Adomites,19.95,0785383689,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Great Shutout Pitchers: Twenty Profiles of a Vanishing Breed,Joe MacKay,24.95,0786416769,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Greatest World Series Games: Baseball Historians Choose 26 Classics,Warren N. Wilbert,39.95,0786418230,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Hartnett, Gabby: The Life and Times of the Cubs' Greatest Catcher",William F. McNeil,24.95,0786418508,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - History of The Baseball Fan,Fred Stein,24.95,0786421487,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Hoyt, Waite: A Biography of the Yankees' Schoolboy Wonder",William A. Cook,27.95,0786419601,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - I Will Never Forget: Interviews with 39 Former Negro League Players,Brent Kelley,39.95,0786414812,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Independent Carolina Baseball League, 1936-1938: Baseball Outlaws",R.G. (Hank) Utley & Scott Verner,28.8,9780786423187,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Integration of Baseball In Philadelphia,Christopher Threston,24.95,0786414235,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - International League: Year-by-Year Statistics, 1884-1953",Marshall D. Wright,49.95,078642267X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Kansas City Athletics: A Baseball History, 1954-1967",John E. Peterson,24.95,0786416106,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Lazzeri, Tony: A Baseball Biography",Paul Votano,26.96,9780786420148,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - League That Lasted: 1876 and the Founding of the National League of Professional Base Ball Clubs,Neil W. Macdonald,28.95,0786417552,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Lean Years of The Yankees, 1965-1975",Robert W. Cohen,26.95,078641846X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Long Before The Dodgers: Baseball in Brooklyn, 1855-1884",James L. Terry,24.95,0786412291,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Louisville Grays Scandal of 1877: The Taint of Gambling at the Dawn of the National League,William A. Cook,24.95,0786421797,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Mack's, Connie '29 Triumph: The Rise and Fall of the Philadelphia Athletics Dynasty",William C. Kashatus,26.96,9780786421657,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Major League Baseball In The 1970s: A Modern Game Emerges,Joseph G. Preston,24.95,0786415924,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Martin, Pepper: A Baseball Biography",Thomas Barthel,24.95,0786416025,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Mccarthy, Joe: Architect of the Yankee Dynasty",Alan H. Levy,29.95,078641961X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Mexican League / La Liga Mexicana: Comprehensive Player Statistics, 1937-2001",Pedro Treto Cisneros,44.95,0786413786,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Minor League Baseball Standings: All North American Leagues, Through 1999",Benjamin Barrett Sumner,64.95,0786407816,SSM,1005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Minor League Milwaukee Brewers, 1859-1952",Brian A. Podoll,24.95,0786414553,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Minor Leagues, Major Boom: Local Professional Baseball Revitalized",Jon C. Stott,24.95,0786417595,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Most Valuable Players In Baseball, 1931-2001",Timm Boyle,39.95,0786410299,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - National Association of Base Ball Players, 1857-1870",Marshall D. Wright,39.95,0786407794,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Negro Leagues Revisited: Conversations with 66 More Baseball Heroes,Brent Kelley,39.95,0786408758,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Negro Leagues, 1869-1960",Leslie A. Heaphy,39.95,0786413808,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Nineteenth Century Baseball: Year-by-Year Statistics for the Major League Teams, 1871 through 1900",Marshall D. Wright,29.95,0786418958,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Occasional Glory: The History of the Philadelphia Phillies,David M. Jordan,24.95,0786412607,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - October Baseball: Ballplayers Discuss Postseason Play,Dan Zachofsky,24.95,0786421819,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Pastime In The Seventies: Oral Histories of 16 Major Leaguers,Bill Ballew,24.95,0786413476,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Pitched Battle: 35 of Baseball's Greatest Duels from the Mound,John Klima,24.95,0786412038,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Reiser, Pete: The Rough-and-Tumble Career of the Perfect Ballplayer",Sidney Jacobson,24.95,0786418761,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Richter's History And Records of Base Ball, The American Nation's Chief Sport",Francis C. Richter,30.95,9780786417278,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Rose, Pete: Baseball's All-Time Hit King",William A. Cook,24.95,0786417331,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Santurce Crabbers: Sixty Seasons of Puerto Rican Winter League Baseball,Thomas E. Van Hyning,29.95,0786406623,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Scapegoats: Baseballers Whose Careers Are Marked by One Fateful Play,Christopher Bell,24.95,0786413816,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - September Streak: The 1935 Chicago Cubs Chase the Pennant,Doug Feldmann,24.95,0786415916,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Single-Season Home Run Kings: Ruth, Maris, McGwire, Sosa, and Bonds, 2d ed.",William F. McNeil,24.95,0786414413,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Sockalexis, Louis: The First Cleveland Indian",David L. Fleitz,24.95,0786413832,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Southern Association In Baseball, 1885-1961",Marshall D. Wright,39.95,0786412917,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Spring Training Handbook: A Comprehensive Guide to the Ballparks of the Grapefruit and Cactus Leagues,Joshua R. Pahigian,24.95,0786420863,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Stand And Deliver: A History of Pinch-Hitting,Paul Votano,24.95,0786415886,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - State of Baseball Management: Decision-Making in the Best and Worst Teams, 1993-2003",Scott Barzilla,24.95,0786418982,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Summer of '64: A Pennant Lost,William A. Cook,27.95,078641216X,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Sunday Baseball: The Major Leagues' Struggle to Play Baseball on the Lord's Day, 1876-1934",Charlie Bevis,24.95,0786415649,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Sunday Coming: Black Baseball in Virginia,Darrell J. Howard,24.95,0786413514,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Tale of Four Cities, A: Nineteenth Century Baseball's Most Exciting Season, 1889, in Contemporary Accounts",Jean-Pierre Caillault,24.95,0786416785,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Texas League In Baseball, 1888-1958",Marshall D. Wright,44.95,0786418028,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Tinker, Evers, And Chance: A Triple Biography",Gil Bogen,24.95,0786416815,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Voices From The Negro Leagues: Conversations with 52 Baseball Standouts of the Period 1924-1960,Brent Kelley,29.95,0786422793,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Wagner, Honus: The Life of Baseball's Flying Dutchman",Arthur D. Hittner,24.95,0786418117,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Washington Senators, 1901-1971",Tom Deveaux,29.95,0786423595,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - What Makes An Elite Pitcher?: Young, Mathewson, Johnson, Alexander, Grove, Spahn, Seaver, Clemens, and Maddux",Warren N. Wilbert,24.95,0786414561,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - When Baseball Returned To Brooklyn: The Inaugural Season of the New York-Penn League Cyclones,Ed Shakespeare,24.95,0786414596,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - When The Bucs Won It All: The 1979 World Champion Pittsburgh Pirates,Bill Ranier & David Finoli,24.95,0786420502,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Whole New Game, A: Off the Field Changes in Baseball, 1946-1960",John P. Rossi,29.95,0786406518,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Women Characters In Baseball Literature: A Critical Study,Kathleen Sullivan,29.95,0786421703,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Women of The All-American Girls Professional Baseball League: A Biographical Dictionary,W.C. Madden,29.95,0786422637,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Wright, Harry: The Father of Professional Base Ball",Christopher Devine,24.95,0786415614,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Golf - Classic Golf: Photographs of Walter Iooss Jr.,,5.95,0810949830,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing price
+Record:Golf - Golf's Greatest Moments: Illustrated History by the Game's Finest Writers,,19.95,0810946319,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Sports Bloopers,Mark Huebner & Brad Wilson,7.95,1552976270,SSM,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:American Stock Car,William Burt,5.95,0760309779,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Big Tractors - 100 Years of High-Powered Farm Machinery,Robert Pripps & Andrew Morland,16.95,0873497317,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:BMW Motorcycles - The Ultimate Riding Machines,Kevin Ash,9.95,1842222732,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Cadillac Century,John Heilig,7.95,0785809171,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Car - A History of the Automobile,Jonathan Glancey,12.95,1842229427,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Cars,Leah Bendavid-Val,4.95,0792261690,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Corvette,Mike Mueller,7.95,0760313865,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: missing genre
+Record:"Corvette Field Guide, 1953-Present",Jerry Heasley,9.95,,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Ford Muscle - Street, Stock, and Strip",Bill Holder & Phil Kunz,19.95,0873498356,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Harley-Davidson,Allan Girdler & Jeff Hackett,6.95,0760313741,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Harley-Davidson,John Tipler,9.95,1571457836,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Harley-Davidson - 100 Years of Harley-Davidson Advertising,Thomas C. Bolfert,5.95,0821228293,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Harley-Davidson - Standard Catalog of Harley-Davidson Motorcycles, 1903-2003",Doug Mitchel,19.95,0873497368,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Harley-Davidson - Ultimate Harley-Davidson,Mac McDiarmid,19.95,1843091690,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Lowriders,Robert Genat,4.95,0760318328,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Mustang,David Newhardt,4.95,076031389X,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Porsche - The Ultimate Guide,Scott Faragher,19.95,0873497201,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Retro Ride,Tony Swan,14.95,188805462X,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Sport Compacts,Alan Paradise,4.95,0760318336,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Sports Car Classics,Lain Ayre,5.95,1859676561,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Sports Car Icons,John Heilig & Dennis Adler & Randy Leffingwell,5.95,0760317771,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Standard Catalog of Camaro, 1967-2002",John Gunnell,19.95,0873494954,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Standard Catalog of Corvette, 1953-2005 (2nd Edition)",John Gunnell,19.95,0873499077,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Standard Catalog of GTO, 1961-2004",John Gunnell,19.95,0873496892,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:"Standard Catalog of Pontiac, 1926-2002 (2nd Edition)",John Gunnell,16.95,0873492633,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Vintage Volkswagens,Flat 4 Project,7.95,0811825450,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:Viper,Matt Stone,6.95,0760316988,TPA,2005
+
+syntax error in file:books2005.csv.txt
+====================
+Error: invalid genre
+Record:VW Beetle,Ryan Lee Price,8.95,1557884218,TPA,2005
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Billboard - Billboard Illustrated Encyclopedia of Music,,19.95,0823078698,MRB,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Hot Wacks Supplement 6,,12.95,0968858708,MRB,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:KISS - Convention Guide & Ticket: 18th Annual New York KISS Expo (2004),,3.95,,MRB,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:KISS - Convention Guide & Ticket: 19th Annual New York KISS Expo (2005),,3.95,,MRB,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Radio - It's That Time Again: More New Stories of Old-Time Radio,,11.95,1591930062,MRB,2106
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Radio - It's That Time Again: The New Stories of Old-Time Radio,,11.95,0971457026,MRB,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:"Cushing, Peter",,19.95,188766453X,MTV,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Mad About Movies (#5),,7.95,,MTV,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Science Fiction America - Essays On SF Cinema,,39.95,0786421495,MTV,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Son of Guilty Pleasures of the Horror Film,,19.95,1887664041,MTV,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - New York Giants Base Ball Club: The Growth of a Team and a Sport, 1870-1900",James D. Hardy Jr.,26.95,0786427280,SSM,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Neyer / James Guide To Pitchers,Bill James & Rob Neyer,6.95,0743261585,SSM,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: missing price
+Record:Baseball - What Baseball Means to Me,,5.95,0446527491,SSM,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - World Series: Opinonated Chronicle,Joseph Wallace,14.95,0810946394,SSM,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Corvette - Definitive Guide To The All-American Sports Car,Andrew Montgomery,14.95,159223061X,TPA,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Ferrari,Hartmut Lehbrink & Rainer W. Schlegelmilch,19.95,3895080764,TPA,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Jaguar - Spirit of the Cat,Paul W. Cockerham,5.95,1577171225,TPA,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Rolls-Royce Motor Car and the Bentley Since 1931,Anthony Bird & Ian Hallows & Brendan James,29.95,0713487496,TPA,2006
+
+syntax error in file:books2006.csv.txt
+====================
+Error: invalid genre
+Record:Volkswagen - Beetle Mania or How I Learned to Stop Worrying and Love the Bug: History and Celebration of an Unlikely Icon,Alessandro Pasi,8.95,0312265247,TPA,2006
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:Romance Pulp - 30 Postcards,,3.95,0811847225,CCB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:Celtic Music - Third Ear: The Essential Listening Companion,,5.95,9780879306236,MRB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Davis, Miles - The Miles Davis Reader: Interviews And Features From DownBeat Magazine",,19.95,142343076X,MRB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Harrison, George - Harrison",,9.95,0743235819,MRB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Morrison, Jim - Angels Dance And Angels Die",,14.95,0825673410,MRB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing genre
+Record:"Wilson, Brian - Smile",Domenic Priore,11.95,,MRB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:Gangster Film: The Overlook Film Encyclopedia,,14.95,0879518812,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Influence of Star Trek On Television, Film And Culture, The",,31.95,9780786430345,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:It Came From The Drive-In,,3.95,0743493168,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing genre
+Record:"Lugosi, Bela: Dreams and Nightmares",Gary D. Rhodes & Richard Sheffield,24.95,,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:Midnight Marquee (Issue #75),,7.95,,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing genre
+Record:Rock & Roll Film Encyclopedia,John Kenneth Muir,16.95,,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Sopranos, The - A Sitdown With The Sopranos",,3.95,0312295286,MTV,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:"Cocktail Shakers, Lava Lamps, And Tupperware - Celebration of Lifestyle Design From The Last Half of The 20th Century",,6.95,1592530451,NEB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing genre
+Record:Rapp Joke File,Philip Rapp,12.95,,NEB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: missing price
+Record:Spy File - International Spy Museum,,4.95,1579123627,NEB,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: invalid genre
+Record:"Baseball - Aaron, Hank and the Home Run That Changed America",Tom Stanton,4.95,0060722908,SSM,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball Over The Air,Tony Silvia,35.95,9780786430666,SSM,2007
+
+syntax error in file:books2007.csv.txt
+====================
+Error: invalid genre
+Record:"Boxing - Ali, Muhammad: The Soul of A Butterfly",Muhammad Ali & Hana Yasmeen Ali,4.95,0743255690,SSM,2007
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:Cartoon Music Book,,16.95,1556524730,MRB,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:"Lydon, John - Stories of Johnny",,17.95,1842403605,MRB,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:"Horror 101: The A-List of Horror Films and Monster Movies, Volume 1",,19.95,1887664793,MTV,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:King Kong Is Back!,,14.95,1932100644,MTV,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:Monster Bash Magazine (Issue #6),,7,,MTV,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:Monster Bash Magazine (Issue #7),,7,,MTV,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: missing price
+Record:Monster Bash Magazine (Issue #8),,7,,MTV,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: invalid genre
+Record:Baseball - Baseball's Greatest Hit: The Story of Take Me Out to the Ball Game,Jennifer Trainer Thompson & Andy Strasberg & Bob Thompson & Tim Wiles,24.95,9781423431886,SSM,2008
+
+syntax error in file:books2008.csv.txt
+====================
+Error: invalid genre
+Record:Bowling - Let's Go Bowling,Eric Dregni,6.95,9780760317945,SSM,2008
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Billboard Hot Country Albums 1964-2007,Joel Whitburn,39.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #83 (Summer 2008)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #84 (Fall 2008)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #85 (Winter 2008/9)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #86 (Spring 2009)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #87 (Summer 2009)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Blue Suede News, Issue #88 (Fall 2009)",Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Dorsey, Tommy - Livin' In A Great Big Way",,4.95,0306815028,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Hendrix, Jimi - The Jimi Hendrix Experience (Rex Collections)",,16.95,1905287070,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Keep Rockin' - The 50s & 60s Nostalgia Magazine #1 (February 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Keep Rockin' - The 50s & 60s Nostalgia Magazine #2 (April 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Keep Rockin' - The 50s & 60s Nostalgia Magazine #3 (June 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Keep Rockin' - The 50s & 60s Nostalgia Magazine #4 (August 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Keep Rockin' - The 50s & 60s Nostalgia Magazine #5 (October 2009),Liz Harris & Lou Holly,4.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Morrow, Cousin Brucie - Doo Wop: The Music, The Times, The Era [Author-Signed Edition + Bonus CD] / Rock & Roll ...And The Beat Goes On [Includes Autographed Photo + Bonus CD]",Bruce Morrow & Rich Maloof,39.95,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Pink Floyd - Pink Floyd (Rex Collections),,22.95,9781905287826,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Rockabilly #45 [Spring 2009],Orlando Rios,3.99,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Rockabilly #46 [Summer 2009],Orlando Rios,3.69,,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Rolling Stones, The - Stones: A History In Cartoons",,6.95,0750942487,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Summers, Andy - One Train Later",,5.95,0312359144,MRB,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Cinema Retro Movie Classics Special Edition Where Eagles Dare Issue,Cinema Retro,9.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Cinema Retro Volume 5, #13 [UK Limited Edition]",,9.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:"Cinema Retro Volume 5, #14 [UK Limited Edition]",,9.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Cinema Retro Volume 5, #15 [UK Limited Edition]",Cinema Retro,9.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Gangster Film Reader,,16.95,0879103329,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:HorrorHound #19 [Sept/Oct 2009],Nathan Hanneman,5.99,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:HorrorHound #20 [Nov/Dec 2009],Nathan Hanneman,5.99,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Little Shoppe of Horrors, Issue #20",Richard Klemensen,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Little Shoppe of Horrors, Issue #21",Richard Klemensen,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Little Shoppe of Horrors, Issue #22",Richard Klemensen,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:"Little Shoppe of Horrors, Issue #23",Richard Klemensen,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Midnight Marquee (Issue #76),Gary Svehla & Susan Svehla,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Bash Magazine (Issue #9),Ron Adams,7,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #10 (2002 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #11 (2003 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #12 (2004 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #13 (2005 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #14 (2006 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #15 (2007 Scary Monsters Magazine Yearbook),Dennis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #16 (2008 Scary Monsters Magazine Yearbook),Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #17 (2009 Scary Monsters Magazine Yearbook),Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #2 (1994 Scary Monsters Magazine Yearbook),Dennis Druktenis,5.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #3 (1995 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #5 (1997 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #6 (1998 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #7 (1999 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #8 (2000 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monster Memories #9 (2001 Scary Monsters Magazine Yearbook),Dennis Druktenis,6.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #21,Monsters From The Vault,6.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #22,Monsters From The Vault,6.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #23,Monsters From The Vault,6.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #24,Monsters From The Vault,6.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #25,Monsters From The Vault,7.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Magazine #26,Monsters From The Vault,7.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Monsters From The Vault Special Edition #1: Kharis Unearthed,Monsters From The Vault,8.98,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Popcorn Prozac - Movies To Cure The Recession Depression!,,19.95,9781887664943,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Queens of Screams - The New Blood,,14.95,1593934556,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Scarlet - The Film Magazine #3,,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters #71,Dennis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #63,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #64,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #65,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #66,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #67,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #68,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #69,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #70,Denis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Scary Monsters Magazine #72,Dennis Druktenis,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #10 [Limited Stock],Darryl Mayeski,5.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #11,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #12,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #15,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #16,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #17,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #18,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Screem Magazine #19,Darryl Mayeski,7.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #52 Fall 2004,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #53 Winter 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #54 Spring 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #55 Summer 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #56 Fall 2005,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #57 Winter 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #58 Spring 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #59 Summer 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #60 Fall 2006,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #61 Winter 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #62 Spring 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #63 Summer 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #64 Fall 2007,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #65 Winter 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #66 Spring 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #67 Summer 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #68 Fall 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #69 Winter 2008,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #70 Spring 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #71 Summer 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing genre
+Record:Videoscope #72 Fall 2009,The Phantom Of The Movies,4.95,,MTV,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: missing price
+Record:Baseball - Baseball/Literature/Culture: Essays 2006/2007,,39.95,9780786436804,SSM,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:Baseball / Literature / Culture - Essays 2004-2005,Peter Carino (Editor),39.95,0786426187,SSM,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:2010 Collector Car Price Guide [Includes Bonus DVD],Ron Kowalke,18.95,0896899713,TPA,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:Chevrolet Pickups 1973-1998,John Gunnell,19.95,0896896145,TPA,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:"Crash! Twisted Steel, Mangled Bumpers & Shattered Windshields From the 40s, 50s & 60s",John Gunnell,9.95,0896894495,TPA,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:Indianapolis Motor Speedway - 100 Years Of Racing,Ralph Kramer & Mario Andretti (Foreword) & Tony George (Preface),24.95,0896898350,TPA,2009
+
+syntax error in file:books2009.csv.txt
+====================
+Error: invalid genre
+Record:"Legendary Model T Ford, The - The Ultimate History Of America's First Great Automobile",Tom Collins,33.95,0896895602,TPA,2009
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Supervillian Book: The Evil Side of Comics and Hollywood,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Who's Who In Animated Cartoons: An International Guide to Film and Television's Award-Winning and Legendary Animators,Jeff Lenburg,15.95,155783671X,CCB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Amos, Tori - Images & Insights (Rare Photo Collection And Quotations)",Michael Friel & Melody Mcdaniel & Cindy Palmano & Rankin,1,0825615674,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Atkins, Chet - Me And My Guitars",Chet Atkins & Michael Cochran,19.95,0634055658,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Bacharach, Burt - Song By Song",Serene Dominic,11.95,0825672805,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Bay City Rollers - Bye Bye Baby: My Tragic Love Affair With The Bay City Rollers,Caroline Sullivan,2.95,1582340552,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Beastie Boys - The Beastie Boys Companion - Two Decades of Commentary,John Rocco,1,0028653343,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Beatles - Diary: An Intimate Day By Day History (Pocket Edition),Barry Miles,8.95,0711991960,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Beatles - Dream Is Over,By Keith Badman,3.95,0711988021,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Billboard's Top R&B And Hip-Hop Singles (1942 To 2004),,39.95,0898201608,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Black Sabbath - The Ozzy Years (Embossed Cover And Rare Photo Collection),Robert V. Conte & C.J. Henderson,1.99,1890313998,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Blues - From Robert Johnson To Robert Clay,Tony Russell,5.95,0028648862,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Boone, Pat - April Love: The Early Days of Rock 'N' Roll - The Authorized Biography",Paul Davis,4.95,,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:British Invasion - How The Beatles And Other UK Bands Conquered America,Bill Harry,6.95,,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Brown, Ruth - Miss Rhythm: The Autobiography of Ruth Brown, Rhythm & Blues Legend",Ruth Brown & Andrew Yule,9.95,0306808889,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Buffet, Jimmy - Jimmy Buffet Scrapbook",Mark Humphrey & Harris Lewine,3.95,0806514612,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Carmichael, Hoagy - Stardust Melody: The Life And Music of Hoagy Carmichael",Richard M. Sudhalter,5.95,0195168984,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Cash, Johnny - Man In White: A Novel About The Apostle Paul",Johnny Cash,19.95,159554237X,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Cash, Johnny - Ring of Fire: Tribute (with Quotes From Johnny's Family, Friends And Colleagues And A Bonus CD Single)",Brian Mansfield,3.95,1401601375,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Cash, Johnny - The Life of An American Icon",Stephen Miller,15.95,0711996261,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Cher - The First Time,Cher as told to Jeff Coplon,4.95,0316848441,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Chicago - Feelin' Stronger Every Day,Ben Joseph,1.99,1550822454,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Chieftains - Authorized Biography,John Glatt,5.95,0306809222,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Cole, Natalie - Angel On My Shoulder: An Autobiography",Natalie Cole & Digby Diehl,4.95,0446527467,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Complete Book of Doo Wop,Dr. Anthony J. Gribin & Dr. Matthew M. Schiff,24.95,0977379841,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Cranberries,Michael Heatley,1,1578990203,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Darin, Bobby - Me And Bobby D.: A Memoir",Steve Karmen,16.95,0634048767,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Davies, Ray - X-Ray",Ray Davies,5.95,0879516119,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:Deep Purple - The Deep Purple Story: Smoke On The Water,Dave Thompson,12.95,,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+Record:"Dion, Celine - Falling Into You",Barry Grills,1.49,155082189X,MRB
+
+syntax error in file:books2010.csv.txt
+====================
+Error: Error: too few fields
+R
